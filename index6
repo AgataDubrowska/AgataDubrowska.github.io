@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+    <link href="styles/styles.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round&display=swap" rel="stylesheet"
+  </head>
+  <body>
+ 
+  <h1> Przyjaciele </h1>
+    <img src="images/friends.jpg" alt="Bohaterowie serialu friends">
+  
+    <p> Bohaterowie serialu <strong> przyjaciele </strong> </p>
+    <ul>
+    <li> Ross </li>
+    <li> Rachel </li>
+    <li> Monika </li>
+    <li> Phoebe </li>
+    <li> Joey </li>
+    <li> Chandler </li>
+    </ul>
+    
+    <p> Drugoplanowi bohaterowie serialu <strong> przyjaciele </strong> </p>
+    <ol>
+    <li> Gunther </li>
+    <li> Janice </li>
+    <li> Ursula </li>
+    <li> Carol </li>
+    <li> Susan </li>
+    <li> Ben </li>
+    <li> Emma </li>
+    </ol>
+    
+    <a href="https://pl.wikipedia.org/wiki/Przyjaciele">Link do wiedzy na temat przyjaciół</a>
+    
+    <script src="scripts/main.js"></script>
+  </body>
+</html> 
